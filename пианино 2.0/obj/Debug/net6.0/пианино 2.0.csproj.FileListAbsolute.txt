@@ -1,0 +1,15 @@
+C:\Users\Fergan\Desktop\работы\с#\пианино\пианино 2.0\bin\Debug\net6.0\пианино 2.0.exe
+C:\Users\Fergan\Desktop\работы\с#\пианино\пианино 2.0\bin\Debug\net6.0\пианино 2.0.deps.json
+C:\Users\Fergan\Desktop\работы\с#\пианино\пианино 2.0\bin\Debug\net6.0\пианино 2.0.runtimeconfig.json
+C:\Users\Fergan\Desktop\работы\с#\пианино\пианино 2.0\bin\Debug\net6.0\пианино 2.0.dll
+C:\Users\Fergan\Desktop\работы\с#\пианино\пианино 2.0\bin\Debug\net6.0\пианино 2.0.pdb
+C:\Users\Fergan\Desktop\работы\с#\пианино\пианино 2.0\obj\Debug\net6.0\пианино 2.0.csproj.AssemblyReference.cache
+C:\Users\Fergan\Desktop\работы\с#\пианино\пианино 2.0\obj\Debug\net6.0\пианино 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fergan\Desktop\работы\с#\пианино\пианино 2.0\obj\Debug\net6.0\пианино 2.0.AssemblyInfoInputs.cache
+C:\Users\Fergan\Desktop\работы\с#\пианино\пианино 2.0\obj\Debug\net6.0\пианино 2.0.AssemblyInfo.cs
+C:\Users\Fergan\Desktop\работы\с#\пианино\пианино 2.0\obj\Debug\net6.0\пианино 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Fergan\Desktop\работы\с#\пианино\пианино 2.0\obj\Debug\net6.0\пианино 2.0.dll
+C:\Users\Fergan\Desktop\работы\с#\пианино\пианино 2.0\obj\Debug\net6.0\refint\пианино 2.0.dll
+C:\Users\Fergan\Desktop\работы\с#\пианино\пианино 2.0\obj\Debug\net6.0\пианино 2.0.pdb
+C:\Users\Fergan\Desktop\работы\с#\пианино\пианино 2.0\obj\Debug\net6.0\пианино 2.0.genruntimeconfig.cache
+C:\Users\Fergan\Desktop\работы\с#\пианино\пианино 2.0\obj\Debug\net6.0\ref\пианино 2.0.dll
