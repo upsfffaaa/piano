@@ -27,25 +27,25 @@ namespace аащща
 			do
 			{
 				ConsoleKeyInfo key = Console.ReadKey();
-				if ((key.Key == ConsoleKey.F1) |
-					(key.Key == ConsoleKey.F2) |
-					(key.Key == ConsoleKey.F3) |
-					(key.Key == ConsoleKey.F4) |
-					(key.Key == ConsoleKey.F5) |
-					(key.Key == ConsoleKey.F6) |
+				if ((key.Key == ConsoleKey.F1) ||
+					(key.Key == ConsoleKey.F2) ||
+					(key.Key == ConsoleKey.F3) ||
+					(key.Key == ConsoleKey.F4) ||
+					(key.Key == ConsoleKey.F5) ||
+					(key.Key == ConsoleKey.F6) ||
 					(key.Key == ConsoleKey.F7))
 				nowOctave = Octaves(key);
-				if ((key.Key == ConsoleKey.Z) |
-					(key.Key == ConsoleKey.S) |
-					(key.Key == ConsoleKey.X) |
-					(key.Key == ConsoleKey.D) |
-					(key.Key == ConsoleKey.C) |
-					(key.Key == ConsoleKey.V) |
-					(key.Key == ConsoleKey.G) |
-					(key.Key == ConsoleKey.B) |
-					(key.Key == ConsoleKey.H) |
-					(key.Key == ConsoleKey.N) |
-					(key.Key == ConsoleKey.J) |
+				if ((key.Key == ConsoleKey.Z) ||
+					(key.Key == ConsoleKey.S) ||
+					(key.Key == ConsoleKey.X) ||
+					(key.Key == ConsoleKey.D) ||
+					(key.Key == ConsoleKey.C) ||
+					(key.Key == ConsoleKey.V) ||
+					(key.Key == ConsoleKey.G) ||
+					(key.Key == ConsoleKey.B) ||
+					(key.Key == ConsoleKey.H) ||
+					(key.Key == ConsoleKey.N) ||
+					(key.Key == ConsoleKey.J) ||
 					(key.Key == ConsoleKey.M))
 					SoundOutput(key, nowOctave);
 			}
